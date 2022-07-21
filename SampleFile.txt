@@ -1,6 +1,8 @@
 This is the test for Rebase & Squash for Source tree
 
 Feature branch 1 epic is created 
+Feature branch 4 epic is created 
+
 Feature branch 3 epic is created 
 
 Feature branch 2 epic is created 
